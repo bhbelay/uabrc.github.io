@@ -222,7 +222,7 @@ If you need backup services, please [Contact Us](../../help/support.md#how-to-re
 
 ### HIPAA Compliance
 
-Cheaha is HIPAA compliant and can accept Protected Health Information (PHI) data. Currently, [long-term storage](lts/index.md) is NOT HIPAA compliant but will be in the future.
+Cheaha and [long-term storage](lts/index.md) are both HIPAA compliant, they can handle Protected Health Information (PHI) data.
 
 For UAB policies surrounding PHI data, please see the following URLs.
 
